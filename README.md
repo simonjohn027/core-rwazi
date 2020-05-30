@@ -1,29 +1,18 @@
-# Django React Boilerplate
+Core Rwazi
+Rwazi is Data collection and Reporting company, that collect FMCG from different retails and report them to their client through the dashboard.
+Core Rwazi 
+This is the initial implemention of the client dashboard that allow the Rwazi client to monitor the movement of the products in different  outlets.
 
-[![alt text](https://github.com/justdjango/django-react-boilerplate/blob/master/thumbnail.png "Logo")](https://youtu.be/YKYVv0gm_0o)
+## Key Features
+1. User Registration
+2. User Authentication
+3. User Permission
+4. Google Mapping Location
+5. Product Movement  in Graphs
 
-This repository contains a boilerplate project setup for Django and React. The project contains backend user authentication with the Django Rest Framework and rest-auth. The frontend has react redux setup for user authentication by storing the token in localstorage.
-
-[Watch the tutorial on how to integrate Django and React](https://youtu.be/YKYVv0gm_0o)
-
-## Backend development workflow
-
-```json
-virtualenv env
-source env/bin/activate
-pip install -r requirements.txt
-python manage.py runserver
-```
-
-## Frontend development workflow
-
-```json
-npm i
-npm start
-```
-
-## For deploying
-
-```json
-npm run build
-```
+## Key Technologies
+1. Django
+2. Python
+3. ReactJs
+4. Google Maps
+5. Javascript
